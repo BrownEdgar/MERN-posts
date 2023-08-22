@@ -1,0 +1,1 @@
+https://console.cloud.google.com/welcome?hl=ru&project=my-project-passport-396509&supportedpurview=project
